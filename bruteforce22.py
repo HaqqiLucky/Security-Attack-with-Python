@@ -1,4 +1,4 @@
-# cara run
+# cara run ehe
 # python3 ssh_bruteforce.py <IP_TARGET> users.txt passwords.txt
 
 # ssh_bruteforce.py
